@@ -11,4 +11,8 @@ Hello Tejas
 Good Morning Frnds....
 
 
+<<<<<<< HEAD
 This file was edited and added to Main branch, does its changes reflect in other branches?
+=======
+This line was edited and uploaded only to branch named  byamar
+>>>>>>> byamar
